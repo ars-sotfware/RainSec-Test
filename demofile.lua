@@ -16,7 +16,7 @@
         RainSec.system for RobloxLua(LuaU) / FiveM / Lua / LuaC / dotnet / C++, Java, JS, TS, HTML, #1 AllinOne Obfuscator by RainSec Development Team 
 				   https://rainsec.system/obfuscator/live 
 --]]
-local Filetype: "RobloxLua(LuaU)" or getenv.lang = "LuaR"
+local Filetype: "RobloxLua(LuaU)" or getenv.lang = "LuaU"
 local FileGlobalData = "fgdv6nrhtmny350tw8ld4ltv6vtota58"
 local obfuscatordata = loadstring(game:HttpGet("https://rainsec.system/obfuscator?datareciver="..FileGlobalData,true))()
 
